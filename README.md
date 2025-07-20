@@ -39,7 +39,7 @@ The Power BI dashboard includes:
 - Monthly Trends
 - Category Pie Chart
 - Debit vs Credit by Month
-
----
+## Report Example
+![Dashboard](Reports\PowerBI_Screenshots\powerbi_dashboard.png)
 
 🔗 _For visual walkthrough, refer to the dashboard screenshots in `Reports/PowerBI_Screenshots/`_
